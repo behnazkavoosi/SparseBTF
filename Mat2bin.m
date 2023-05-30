@@ -1,6 +1,6 @@
 % Convert .mat files to binary to use in the shader
 
-function mat2bin(filename)
+function Mat2bin(filename)
 
 addpath('./Bonn-btflib/matlab/half_precision')  % https://github.com/cgbonn/btflib
 load(sprintf('%s.mat', filename));
