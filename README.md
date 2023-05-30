@@ -15,7 +15,7 @@ To compile the code, you will need the following libraries:
 
 We have provided a solution file for Visual C++ 2022, as well as a CMake file. The code has been successfully compiled and tested under Windows 10 and Ubuntu 22.04. However, it has not been tested on MacOS.
 
-Please note that the repository does not include the model training code. However, we have included a trained ensemble named "DictEnsOrth4D.mat" located at "project-root/bin/DataBTF/".
+Please note that the repository does not include the model training code. However, we have included the trained ensembles named "DictEnsOrth4DY.mat", "DictEnsOrth4DU.mat", and "DictEnsOrth4DV.mat".
 
 The UBO2014 BTFs in MATLAB's .mat file format can be downloaded from [here](https://drive.google.com/drive/folders/1uIhP3qFZbfD4-MhMGbswO_GI04bKKbAr?usp=sharing).
 
