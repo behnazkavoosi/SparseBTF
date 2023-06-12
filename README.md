@@ -17,6 +17,6 @@ We have provided a solution file for Visual C++ 2022, as well as a CMake file. T
 
 Please note that the repository does not include the model training code. However, we have included the trained ensembles named "DictEnsOrth4DY.mat", "DictEnsOrth4DU.mat", and "DictEnsOrth4DV.mat".
 
-The UBO2014 BTFs in MATLAB's .mat file format can be downloaded from [here](https://drive.google.com/drive/folders/1uIhP3qFZbfD4-MhMGbswO_GI04bKKbAr?usp=sharing).
+The UBO2014 BTFs in MATLAB's .mat file format can be downloaded from [here](https://drive.google.com/drive/folders/1oNZwiEGflB37xJMqgZuSLImaonAzrm_I?usp=sharing).
 
 If you have any questions or need assistance, please feel free to reach out to me at behnaz.kavoosighafi@liu.se.
