@@ -1,5 +1,11 @@
 # SparseBTF
 
+
+
+https://github.com/behnazkavoosi/SparseBTF/assets/84283348/aec714c1-a8fb-41c5-9f45-c348e9daf2f0
+
+
+
 If you use this code, we kindly request that you cite the following paper:
 
 Kavoosighafi, B., Frisvad, J. R., Hajisharif, S., Unger, J., and Miandji, E. SparseBTF: Sparse Representation Learning for Real-time Rendering of Bidirectional Texture Functions. In EGSR. 2023.
