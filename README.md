@@ -8,7 +8,23 @@ https://github.com/behnazkavoosi/SparseBTF/assets/84283348/aec714c1-a8fb-41c5-9f
 
 If you use this code, we kindly request that you cite the following paper:
 
-Kavoosighafi, B., Frisvad, J. R., Hajisharif, S., Unger, J., and Miandji, E. SparseBTF: Sparse Representation Learning for Bidirectional Texture Functions. In EGSR. 2023.
+<strong style="color: blue;">🔖 BibTeX Citation</strong>
+
+<div style="background-color: #F7F7F7; padding: 10px; border: 1px solid #CCCCCC;">
+<pre>
+@inproceedings {10.2312:sr.20231123,
+booktitle = {Eurographics Symposium on Rendering},
+editor = {Ritschel, Tobias and Weidlich, Andrea},
+title = {{SparseBTF: Sparse Representation Learning for Bidirectional Texture Functions}},
+author = {Kavoosighafi, Behnaz and Frisvad, Jeppe Revall and Hajisharif, Saghi and Unger, Jonas and Miandji, Ehsan},
+year = {2023},
+publisher = {The Eurographics Association},
+ISSN = {1727-3463},
+ISBN = {978-3-03868-229-5},
+DOI = {10.2312/sr.20231123}
+}
+</pre>
+</div>
 
 The repository contains the code for sparse representation of Bidirectional Texture Functions (BTFs), including dictionaries and two examples of sparse coefficients for SparseBTF (32). Additionally, it includes the shader code in NVIDIA OptiX SDK 7.4. 
 
